@@ -72,3 +72,22 @@ gap: 40px;
     
    .youtube-image{ width: 980px ; 
 height: 480px; margin: 0 auto;}
+/* my current target  styles */
+.my-current-target{ 
+    /* border: 2px solid red;  */
+height: 400px; width: 1000px;}
+.target{text-align: center;}
+.target-title{padding: 20px 0px;}
+.current-target-column{  display: flex; 
+justify-content:space-evenly; 
+padding-top: 30px;}
+.current-column-1{background-color: #FFF6F4; 
+    border-radius: 10px;}
+    .current-column-2{background-color: #F2F6FE; 
+        border-radius: 10px;}
+        .current-column-3{background-color:#FFFDF2 ;
+            border-radius: 10px;
+        }
+    .current-description{ padding:8px 0px 24px ;}
+    
+    footer{ border: 2px solid red;width: 1000px;}
