@@ -37,7 +37,7 @@ margin-top: 24px;}
     /* main style  */
 main{width: 900px ;
 height: 1150px; 
-border: 2px solid red;
+/* border: 2px solid red; */
 margin: 0 auto ;}
 .why-web-development{ margin: 80px 97px;
 text-align: center;}
@@ -62,5 +62,13 @@ gap: 40px;
 .column-1 .column-2 { width: 60%;}
 .column-description{margin-top: 16px;}
 .learn-more{margin-top: 25px;}
-  
+  /* my inspiration style */
+     .my-inspiration{ 
+        /* border: 2px solid red;   */
+        width: 1000px ; 
+    height: 600px ;}
+        .inspiration-content{ text-align:center ; }
+    .inspiration-description{ padding: 20px 120px 18px ;}
     
+   .youtube-image{ width: 980px ; 
+height: 480px; margin: 0 auto;}
