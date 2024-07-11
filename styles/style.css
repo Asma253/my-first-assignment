@@ -9,8 +9,8 @@ padding: 0;}
 
 .banner{
        /* border: 2px solid red;   */
-   height: 646px;
-   width: 1365px;
+   height: 550px;
+   width: 1350px;
 
     background-image: url("../assets/Hero-bg.png "); 
 }
@@ -20,6 +20,7 @@ height: 580px;
 /* border: 2px solid red;   */
 margin:0 auto ;
 text-align: center;
+width: fixed;
 
 }
 .banner-text-title{ margin-top: 30px;}
@@ -33,5 +34,33 @@ margin-top: 24px;}
     border-radius: 5px;
     margin-top: 32px;}
     
+    /* main style  */
+main{width: 900px ;
+height: 1150px; 
+border: 2px solid red;
+margin: 0 auto ;}
+.why-web-development{ margin: 80px 97px;
+text-align: center;}
 
+.web-section-description{margin-top: 24px;}
+.cc-1 { display: flex; 
+flex-direction: center;
+margin: 48px;
+gap: 40px;
+}
+.cc-2{ display: flex; 
+    flex-direction: center;
+    margin: 48px;
+    gap: 40px; 
+    }
+    .cc-3{ display: flex; 
+        flex-direction: center;
+        margin: 48px;
+        gap: 40px; 
+        }
 
+.column-1 .column-2 { width: 60%;}
+.column-description{margin-top: 16px;}
+.learn-more{margin-top: 25px;}
+  
+    
