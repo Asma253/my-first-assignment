@@ -1,0 +1,35 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+body{   font-family: "Inter", sans-serif;}
+*{box-sizing: border-box;
+margin: 0  ;
+padding: 0;}
+/* banner style */
+
+.banner{
+       /* border: 2px solid red;   */
+   height: 646px;
+   width: 1365px;
+
+    background-image: url("../assets/Hero-bg.png "); 
+}
+
+.banner-container{ width: 990px;
+height: 580px;
+/* border: 2px solid red;   */
+margin:0 auto ;
+text-align: center;
+
+}
+.banner-text-title{ margin-top: 30px;}
+.banner-text-description{ width:850px ;
+height: 50px;
+margin: 0 auto;
+margin-top: 24px;}
+.banner-contact{background-color: #26111E;
+    color:white ;
+    padding: 21px 24px;
+    border-radius: 5px;
+    margin-top: 32px;
+}
